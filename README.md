@@ -21,3 +21,17 @@
   
 ### Documentation
 * [Implementing Library in Android](https://developer.android.com/studio/projects/android-library#psd-add-dependencies) 
+
+### Methods
+* Library initialization
+    > edgeLib_init    
+* Permission Manager
+    > edgeLib_askPermission    
+* Canny-edge detection algorithm
+    > edgeLib_detectEdges    
+* Store images in SQLite Database
+    > edgeLib_storeImage    
+* Image chooser for camera and gallery
+    > edgeLib_imagePicker
+* Upload images via URL
+    > edgeLib_getBitmapByURL
