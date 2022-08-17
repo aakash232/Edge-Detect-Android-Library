@@ -8,7 +8,7 @@
 <img src="https://docs.opencv.org/4.x/canny1.jpg">
 
 
-### How to use
+## How to use
 * Import Module
   > File -> New -> Import Module
 * Adding Dependency
@@ -19,10 +19,10 @@
   > Finish
  * Instantiate object for EdgeDetectLibrary class and access the methods accordingly.
   
-### Documentation
+## Documentation
 * [Implementing Library in Android](https://developer.android.com/studio/projects/android-library#psd-add-dependencies) 
 
-### Methods
+## Methods
 * Library initialization
     > edgeLib_init    
 * Permission Manager
