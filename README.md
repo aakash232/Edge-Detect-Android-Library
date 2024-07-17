@@ -14,7 +14,10 @@ Go to `File` -> `New` -> `Import Module`
    
 #### Step 2. Adding Dependency
 a) Go to `File` -> `Project Structure` -> `Dependencies`  
-b) Select `app module` -> click `+` on top-left corner -> select `module dependency` -> choose `OpenCV` and rename `app` to `EdgeDetect`  
+
+b) Select `app module` -> click `+` on top-left corner -> select `module dependency`
+
+c) Choose `OpenCV` and rename `app` to `EdgeDetect`  
   
 #### Step 3 
 Instantiate object for EdgeDetectLibrary class and access the methods accordingly.
