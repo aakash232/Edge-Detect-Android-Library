@@ -9,15 +9,15 @@
 
 
 ## How to use
-* Import Module
-  > File -> New -> Import Module
-* Adding Dependency
-  > File -> Project Structure -> Dependencies  
+#### Step 1. Import Module
+File -> New -> Import Module
+   
+#### Step 2. Adding Dependency
+a) Go to `File` -> `Project Structure` -> `Dependencies`  
+b) Select `app module` -> click `+` on top-left corner -> select `module dependency` -> choose `OpenCV` and rename `app` to `EdgeDetect`  
   
-   > Select app module, click + on top-left corner, select module dependency, choose OpenCV and rename :app to :EdgeDetect  
-     
-  > Finish
- * Instantiate object for EdgeDetectLibrary class and access the methods accordingly.
+#### Step 3 
+Instantiate object for EdgeDetectLibrary class and access the methods accordingly.
   
 ## Documentation
 * [Implementing Library in Android](https://developer.android.com/studio/projects/android-library#psd-add-dependencies) 
