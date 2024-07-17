@@ -10,7 +10,7 @@
 
 ## How to use
 #### Step 1. Import Module
-File -> New -> Import Module
+Go to `File` -> `New` -> `Import Module`
    
 #### Step 2. Adding Dependency
 a) Go to `File` -> `Project Structure` -> `Dependencies`  
